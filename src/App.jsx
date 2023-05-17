@@ -1,5 +1,5 @@
+import Text from "./components/Text";
 import { Card } from './components/Card/Card';
-import Counter from './components/Counter';
 import { Usuario } from './components/Usuario/Usuario';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <div>
       <Usuario nombre="Alvaro" edad="20" nacionalidad="Argentina"/>
       <Card/>
-      <Counter/>
+      <Text/>
     </div>
   );
 }
