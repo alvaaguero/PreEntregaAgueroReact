@@ -1,13 +1,9 @@
-import Text from "./components/Text";
-import { Card } from './components/Card/Card';
-import { Usuario } from './components/Usuario/Usuario';
+import "./main.css"
 
 function App() {
   return (
     <div>
-      <Usuario nombre="Alvaro" edad="20" nacionalidad="Argentina"/>
-      <Card/>
-      <Text/>
+        hola mundo
     </div>
   );
 }
