@@ -1,0 +1,163 @@
+[ 
+    {
+        "id":1,
+        "titulo":"anorak Nikestreew",
+        "descripcion":"anorak de primero con detalles precisos",
+        "categoria":"anorak",
+        "imagen":"http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio":43300
+    },
+    {
+        "id":2,
+        "titulo":"Ripcurl low",
+        "descripcion":"campera importada gamuza",
+        "categoria":"camperas",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio":23000
+    },
+    {
+        "id":3,
+        "titulo":"Parka mind fresh",
+        "descripcion":"Parka de alta densidad para frios intensos",
+        "categoria":"Parka",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio":12600
+    },
+    {
+        "id":4,
+        "titulo":"0800 soft",
+        "descripcion":"campera de la mejor calidad en el mercado",
+        "categoria":"jacket",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio":56944
+    },
+    {
+        "id":5,
+        "titulo":"adidas full balck",
+        "descripcion":"campera adidas negra por completo super abrigada",
+        "categoria":"campera",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio":39000
+    },
+    {
+        "id":6,
+        "titulo":"columbia imperm",
+        "descripcion":"campera columbia super impermeable",
+        "categoria":"impermeables",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio":12000
+    },
+    {
+        "id":7,
+        "titulo":"fox iuniti",
+        "descripcion":"campera lista para temperaturas bajas de alta densidad",
+        "categoria":"campera",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio":29911
+    },
+    {
+        "id":8,
+        "titulo":"globut dorm",
+        "descripcion":"campera especial de invierno",
+        "categoria":"campera",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio":5400
+    },
+    {
+        "id":9,
+        "titulo":"inlose premium",
+        "descripcion":"anorak de gran resistencia",
+        "categoria":"anorak",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio":23499
+    },
+    {
+        "id":10,
+        "titulo":"jacket xac",
+        "descripcion": "jacket muy caliente super abrigada",
+        "categoria":"jacket",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio":30002
+    },
+    {
+        "id":11,
+        "titulo":"kennedy fit",
+        "descripcion":"campera para tu rutina de todos los dias",
+        "categoria":"campera",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio":34555
+    },
+    {
+        "id":12,
+        "titulo":"montage dormund",
+        "descripcion":"campera dormund de gran calidad importada",
+        "categoria":"campera",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio":17000
+    },
+    {
+        "id":13,
+        "titulo":"nike essential",
+        "descripcion":"anorak de extrema calidad y durabilidad",
+        "categoria":"anorak",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio":3299
+    },
+    {
+        "id":14,
+        "titulo":"nike sport",
+        "descripcion":"campera de deporte ultra ligera que te acompaña a donde sea que vayas",
+        "categoria":"campera",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio":20000
+    },
+    {
+        "id":15,
+        "titulo":"nkg",
+        "descripcion":"impermeable de gran calidad",
+        "categoria":"impermeables",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio":22211
+    },
+    {
+        "id":16,
+        "titulo":"parka westf",
+        "descripcion":"parka de primera con cordero interior with",
+        "categoria":"parka",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio":23221
+    },
+    {
+        "id":17,
+        "titulo":"puffer host",
+        "descripcion":"campera puffer de gran grosor y relleno de plumas",
+        "categoria":"campera",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio":3224
+    },
+    {
+        "id":18,
+        "titulo":"termicalshirap",
+        "descripcion":"abrigo termico importado con una densidad alta",
+        "categoria":"impermeables",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio":33000
+    },
+    {
+        "id":19,
+        "titulo":"the north face flash",
+        "descripcion":"campera the north face imoportada",
+        "categoria":"campera",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio":4833
+    },
+    {
+        "id":20,
+        "titulo":"traditional lacost",
+        "descripcion":"jacket importada lacost",
+        "categoria":"jacket",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio":67000
+    }
+
+]
